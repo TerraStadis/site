@@ -8,6 +8,7 @@ const videos = [
   "videos/Лайкер и Гавер.mp4",
   "videos/МАШИНА ВДРЕБЕЗГИ.mp4",
   "videos/отпуска нет ультракалл.mp4",
+  "videos/когда алмы вернёш.mp4",
   "videos/Frostpunk.mp4"
 ];
 
