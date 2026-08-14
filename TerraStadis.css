@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
 
+@font-face {
+  font-family: 'Oranienbaum';
+  src: url('/fonts/Oranienbaum-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
 
 body {
   display: flex;
@@ -7,7 +13,7 @@ body {
   align-content: center;
   background: linear-gradient(157deg,rgba(36, 36, 36, 1) 0%, rgba(0, 0, 0, 1) 76%);
   height: 100vh;
-  width: 100vw;
+  width: 98vw;
 }
 
 .background {
